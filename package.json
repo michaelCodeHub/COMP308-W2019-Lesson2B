@@ -1,0 +1,15 @@
+{
+  "name": "comp308-w2019-lesson2b",
+  "version": "1.0.0",
+  "description": "COMP308-W2019-Lesson2B",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
